@@ -1,14 +1,15 @@
 ### revChatGPT Flask API
 Web API for revChatGPT via Flask.
-<br><br>
+<br><br><br>
 
 __Note__: First, you need to configure [revChatGPT](https://github.com/acheong08/ChatGPT) with either a user account or a session token.
+<br>
 
-__Screenshot__
-![revChatGPT Flask API](screenshot.png)
+#### Screenshot
+![revChatGPT Flask API Screenshot](screenshot.png)
 
+<br><br>
 ### How to use
-
 ##### Example Python Script:
 ```
 import requests
